@@ -1,0 +1,90 @@
+[
+  {
+    "model": "BEN2",
+    "id": "onnx-community/BEN2-ONNX",
+    "revision": "c552aa82688edce09f0ac9d2e31ad53d9d629010",
+    "tag": "BEN2-ONNX-c552aa82688edce09f0ac9d2e31ad53d9d629010",
+    "license": "mit",
+    "upstreamRepository": "https://github.com/PramaLLC/BEN2",
+    "upstreamCommit": "2c99a5da477b5523585bfa5c893888a6e818a8f6",
+    "checkedAt": "2026-10-16T16:23:49.723Z",
+    "modifications": "None by vztool; original ONNX conversion from onnx-community. Only the download asset filename is flattened.",
+    "files": [
+      {
+        "filename": "config.json",
+        "path": "config.json",
+        "source": "https://huggingface.co/onnx-community/BEN2-ONNX/resolve/c552aa82688edce09f0ac9d2e31ad53d9d629010/config.json",
+        "size": 80,
+        "sha256": "a1955f3bbdd628a0ea0339ec14bc98ba7b09e1a35d267e4ab01e902d2489dfa5"
+      },
+      {
+        "filename": "preprocessor_config.json",
+        "path": "preprocessor_config.json",
+        "source": "https://huggingface.co/onnx-community/BEN2-ONNX/resolve/c552aa82688edce09f0ac9d2e31ad53d9d629010/preprocessor_config.json",
+        "size": 391,
+        "sha256": "447d9ccb2c4129ab0ca045fc293e7d79dbc45e293ac1e94818d865db77f65a54"
+      },
+      {
+        "filename": "onnx-model_fp16.onnx",
+        "path": "onnx/model_fp16.onnx",
+        "source": "https://huggingface.co/onnx-community/BEN2-ONNX/resolve/c552aa82688edce09f0ac9d2e31ad53d9d629010/onnx/model_fp16.onnx",
+        "size": 219121675,
+        "sha256": "dfdc25f421f32a0d1268e0f2ff2153d340e8f1d52d3dd16f5dc33c1ce85cedf1"
+      },
+      {
+        "filename": "LICENSE.txt",
+        "size": 1066,
+        "sha256": "a4843132cbd56c50f20ae008739d85b7563d38905fd692a337af52ad588c581a"
+      },
+      {
+        "filename": "model-card.txt",
+        "size": 1148,
+        "sha256": "f23fb7d228ed8c576245326a1468cd7b66719231c1f05132716410cfa960f19a"
+      }
+    ]
+  },
+  {
+    "model": "MODNet",
+    "id": "onnx-community/modnet-webnn",
+    "revision": "6af52070d14deafc5e55ce6cc4d752a322cdff76",
+    "tag": "modnet-webnn-6af52070d14deafc5e55ce6cc4d752a322cdff76",
+    "license": "apache-2.0",
+    "upstreamRepository": "https://github.com/ZHKKKe/MODNet",
+    "upstreamCommit": "28165a451e4610c9d77cfdf925a94610bb2810fb",
+    "checkedAt": "2026-10-16T16:23:49.723Z",
+    "modifications": "None by vztool; original ONNX conversion from onnx-community. Only the download asset filename is flattened.",
+    "files": [
+      {
+        "filename": "config.json",
+        "path": "config.json",
+        "source": "https://huggingface.co/onnx-community/modnet-webnn/resolve/6af52070d14deafc5e55ce6cc4d752a322cdff76/config.json",
+        "size": 191,
+        "sha256": "4ce4cd293c1b83fdcec5da21131b029a6444713eb7041df6d44f4e6a335a01ff"
+      },
+      {
+        "filename": "preprocessor_config.json",
+        "path": "preprocessor_config.json",
+        "source": "https://huggingface.co/onnx-community/modnet-webnn/resolve/6af52070d14deafc5e55ce6cc4d752a322cdff76/preprocessor_config.json",
+        "size": 349,
+        "sha256": "2858817d6bb201f333f1c07e4ecbd725f53ae2848543dfde8182d2c16617f0c3"
+      },
+      {
+        "filename": "onnx-model.onnx",
+        "path": "onnx/model.onnx",
+        "source": "https://huggingface.co/onnx-community/modnet-webnn/resolve/6af52070d14deafc5e55ce6cc4d752a322cdff76/onnx/model.onnx",
+        "size": 25888640,
+        "sha256": "07c308cf0fc7e6e8b2065a12ed7fc07e1de8febb7dc7839d7b7f15dd66584df9"
+      },
+      {
+        "filename": "LICENSE.txt",
+        "size": 11357,
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+      },
+      {
+        "filename": "model-card.txt",
+        "size": 2837,
+        "sha256": "2710ce83a923b7ac33ae45b2e4b12dbea6e8afb5485bed0fa0340664c2ca4ecf"
+      }
+    ]
+  }
+]
